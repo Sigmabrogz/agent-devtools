@@ -72,10 +72,10 @@ dev = [
 agentdbg = "agentdbg.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/agentdbg/agentdbg"
-Documentation = "https://agentdbg.dev/docs"
-Repository = "https://github.com/agentdbg/agentdbg"
-Issues = "https://github.com/agentdbg/agentdbg/issues"
+Homepage = "https://github.com/Sigmabrogz/agent-devtools"
+Documentation = "https://github.com/Sigmabrogz/agent-devtools#readme"
+Repository = "https://github.com/Sigmabrogz/agent-devtools"
+Issues = "https://github.com/Sigmabrogz/agent-devtools/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/agentdbg"]

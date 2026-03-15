@@ -26,6 +26,7 @@ MODEL_COSTS: dict[str, dict[str, float]] = {
     "claude-3-haiku": {"input": 0.00025, "output": 0.00125},
     "claude-3-5-sonnet": {"input": 0.003, "output": 0.015},
     "claude-3-5-haiku": {"input": 0.0008, "output": 0.004},
+    "claude-3-7-sonnet": {"input": 0.003, "output": 0.015},
     "claude-opus-4": {"input": 0.015, "output": 0.075},
     "claude-sonnet-4": {"input": 0.003, "output": 0.015},
 }
